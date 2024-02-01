@@ -38,7 +38,7 @@ All lecture slides and workshop material will be made available during the summe
 
 You will work on the labs at your own pace in small groups with expert guidance (all lecturers from the morning sessions plus teaching assistants).
 
-Participants are required to bring their own laptop with the most recent release versions of R and Bioconductor installed: R-4.2.x and Bioconductor 3.15 installed (details will be provided). Please make sure that your computer’s hardware is sufficiently powered (>=8 GB RAM, >20 GB free disk space) and that you have administrator rights. Please set up your computer beforehand; internet connections at the venue can occasionally be slow and unreliable.
+Participants are required to bring their own laptop with the most recent release versions of R and Bioconductor installed: R-4.3.x and Bioconductor 3.18 installed (details will be provided). Please make sure that your computer’s hardware is sufficiently powered (>=8 GB RAM, >20 GB free disk space) and that you have administrator rights. Please set up your computer beforehand; internet connections at the venue can occasionally be slow and unreliable.
 
 ## Social Programme {#social}
 
