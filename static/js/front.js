@@ -102,7 +102,7 @@ function sliders () {
     })
     
     $('.sponsors').owlCarousel({
-      items: 4,
+      items: 5,
       itemsDesktopSmall: [990, 4],
       itemsTablet: [768, 2],
       itemsMobile: [480, 1]
