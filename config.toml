@@ -138,7 +138,7 @@ paginate = 50
 
 [params.lecturers]
     enable = true
-    title = "Lecturers and Faculty"
+    title = "Faculty and Teaching Assistants"
     
 [params.overview]
     enable = true

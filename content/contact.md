@@ -4,7 +4,7 @@ title = "Contact"
 
 ## Contact
 
-For inquiries related to the registration, scientific program, organisation and certificates of attendance, please contact **info[at]bioconductor.eu**
+For inquiries related to the registration, scientific program, organisation and certificates of attendance, please contact **csama[at]stat.unipd.it**
 
 ## Summer school coordination
 Wolfgang Huber, European Bioconductor Society e.V. and European Molecular Biology Laboratory.

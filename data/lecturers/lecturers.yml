@@ -6,5 +6,5 @@ people:
 - {name: Mike Love, initials: ML, location:  University of North Carolina at Chapel Hill}
 - {name: Davide Risso, initials: DR, location: University of Padova}
 - {name: Charlotte Soneson, initials: CS, location: Friedrich Miescher Institute for Biomedical Research}
-- {name: Julia Philipp, initials: JP, location: European Molecular Biology Laboratory}
+# - {name: Julia Philipp, initials: JP, location: European Molecular Biology Laboratory}
 - {name: More to be announced soon!}
