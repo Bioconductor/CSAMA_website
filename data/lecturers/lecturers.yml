@@ -2,7 +2,6 @@ people:
 - {name: Vince Carey, initials: VJC, location: Harvard Medical School}
 - {name: Charlotte Soneson, initials: CS, location: Friedrich Miescher Institute for Biomedical Research}
 - {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
-- {name: Lori Kern, initials: LK, location: Roswell Park Comprehensive Cancer Center}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
 - {name: Mike Love, initials: ML, location:  University of North Carolina at Chapel Hill}
@@ -10,3 +9,4 @@ people:
 - {name: Chiara Romualdi, initials: CR, location: University of Padova}
 - {name: Enrica Calura, initials: EC, location: University of Padova}
 - {name: Ilaria Billato, initials: IB, location: University of Padova}
+- {name: Philippine Louail, initials: PL, location: Eurac Research}
