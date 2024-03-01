@@ -34,7 +34,7 @@ paginate = 50
 [[menu.main]]
     identifier="registration"
     name = "Registration"
-    url  = "/registration-coming-soon/"
+    url  = "/registration/"
     weight = 3
 
 [[menu.main]]
