@@ -32,47 +32,46 @@ description = "Programme"
 | 18:00-20:00 | Registration & help desk |
 | 18:00-20:00 | Get together with drinks |
 | <font color="teal">**Mon 24 June**</font> | | <!-- Monday -->
-| 08:30-09:15 | **Lecture:** |
-| 09:15-10:00 | **Lecture:** |
-| 10:00-10:30 | Coffee  |
-| 10:30-11:15 | **Lecture:** |
-| 11:15-12:00 | **Lecture:** |
+| 08:30-09:15 | **Lecture:** Introduction to Bioconductor (Vince Carey) |
+| 09:15-10:00 | **Lecture:** PCA and other low-dimensional embeddings (Robert Gentleman) |
+| 10:00-10:30 | Coffee |
+| 10:30-11:15 | **Lecture:** Regression (Michael Love) |
+| 11:15-12:00 | **Lecture:** Design of High Throughput Experiments and their Analysis (Charlotte Soneson) |
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
-| 08:30-09:15 | **Lecture:** |
-| 09:15-10:00 | **Lecture:** |
-| 10:00-10:30 | Coffee  |
-| 10:30-11:15 | **Lecture:** |
-| 11:15-12:00 | **Lecture:** |
+| 08:30-09:15 | **Lecture:** Statistical testing and multiple hypotheses (Wolfgang Huber) |
+| 09:15-10:00 | **Lecture:** RNA-seq intro: biology of transcription, quantification, batch effects and QC (Michael Love) |
+| 10:00-10:30 | Coffee |
+| 10:30-11:15 | **Lecture:** RNA-Seq for DE: Types of DE, modeling counts, scaling, transcript lengths, parameter estimation (Charlotte Soneson) |
+| 11:15-12:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings (Davide Risso) |
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
-| 08:30-09:15 | **Lecture:** |
-| 09:15-10:00 | **Lecture:** |
-| 10:00-10:30 | Coffee  |
-| 10:30-11:15 | **Lecture:** |
-| 11:15-12:00 | **Lecture:** |
+| 08:30-09:15 | **Lecture:** Distances, nearest-neighbour graphs and clustering (Vincent Carey) |
+| 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping (Charlotte Soneson) |
+| 10:00-10:30 | Coffee |
+| 10:30-11:15 | **Lecture:** Discretization vs. continuous modeling of biological data, applications to single cell (Wolfgang Huber) |
+| 11:15-12:00 | **Lecture:** Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 12:00-14:00 | Lunch break (on your own) |
-| 14:00-17:00 | **Lab:** |
-| 17:00-17:30 | **Flashlight talks** |
+| 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](about/#social) |
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
-| 08:30-09:15 | **Lecture:** |
-| 09:15-10:00 | **Lecture:** |
-| 10:00-10:30 | Coffee  |
-| 10:30-11:15 | **Lecture:** |
-| 11:15-12:00 | **Lecture:** |
+| 08:30-09:15 | **Lecture:** Mass spectrometry-based proteomics, incl. single-cell (Laurent Gatto) |
+| 09:15-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Laurent Gatto) |
+| 10:00-10:30 | Coffee |
+| 10:30-11:15 | **Lecture:** Reproducible research: notebooks, workflow management |
+| 11:15-12:00 | **Lecture:** Method comparison, benchmarking |
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
 | <font color="teal">**Fri 28 June**</font> | | <!-- Friday -->
-| 08:30-09:15 | **Lecture:** |
-| 09:15-10:00 | **Lecture:** |
-| 10:00-10:30 | Coffee  |
-| 10:30-11:15 | **Lecture:** |
-| 11:15-12:00 | **Lecture:** |
+| 08:30-09:15 | **Lecture:** Machine learning (Robert Gentleman) |
+| 09:15-10:00 | **Lecture:** Single cell advanced topics: trajectories, pseudo-time, bifurcations, spatial statistics (Charlotte | Davide | Wolfgang)|
+| 10:00-10:30 | Coffee |
+| 10:30-11:15 | **Group projects presentations** |
+| 11:15-12:00 | **Group projects presentations** |
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
