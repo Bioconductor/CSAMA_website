@@ -7,8 +7,8 @@ description = "Programme"
 
 *Biological domains*
 
-- RNA-Seq from sequences to analysis: mapping, quantification at gene and transcript level, gamma-Poisson distribution
-- Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction
+- RNA-Seq from sequences to analysis: mapping, quantification at gene and transcript level
+- Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment
 - Mass spectrometry-based proteomics and metabolomics
 - Image-based data and spatial omics (CODEX, MERFISH et al.)
 - Emerging topics and participant suggestions
