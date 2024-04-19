@@ -21,10 +21,10 @@ description = "Programme"
 
 | Date/Time   | Content |
 |-------------|---------|
-| Sun 23 June |         |
+| <font color="teal">**Sun 23 June**</font> | | <!-- Sunday -->
 | 18:00-20:00 | Registration & help desk |
 | 18:00-20:00 | Get together with drinks |
-| Mon 24 June |         |
+| <font color="teal">**Mon 24 June**</font> | | <!-- Monday -->
 | 08:30-09:15 | **Lecture:** |
 | 09:15-10:00 | **Lecture:** |
 | 10:00-10:30 | Coffee  |
@@ -33,7 +33,7 @@ description = "Programme"
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
-| Tue 25 June |         |
+| <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
 | 08:30-09:15 | **Lecture:** |
 | 09:15-10:00 | **Lecture:** |
 | 10:00-10:30 | Coffee  |
@@ -42,7 +42,7 @@ description = "Programme"
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
-| Wed 26 June |         |
+| <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
 | 08:30-09:15 | **Lecture:** |
 | 09:15-10:00 | **Lecture:** |
 | 10:00-10:30 | Coffee  |
@@ -51,7 +51,7 @@ description = "Programme"
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
-| Thu 27 June |         |
+| <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
 | 08:30-09:15 | **Lecture:** |
 | 09:15-10:00 | **Lecture:** |
 | 10:00-10:30 | Coffee  |
@@ -60,7 +60,7 @@ description = "Programme"
 | 12:00-14:00 | Lunch break (on your own) |
 | 14:00-17:00 | **Lab:** |
 | 17:00-17:30 | **Flashlight talks** |
-| Fri 28 June |         |
+| <font color="teal">**Fri 28 June**</font> | | <!-- Friday -->
 | 08:30-09:15 | **Lecture:** |
 | 09:15-10:00 | **Lecture:** |
 | 10:00-10:30 | Coffee  |
