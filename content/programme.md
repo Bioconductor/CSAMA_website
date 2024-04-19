@@ -35,10 +35,10 @@ description = "Programme"
 | 08:30-09:15 | **Lecture:** Introduction to Bioconductor (Vince Carey) |
 | 09:15-10:00 | **Lecture:** PCA and other low-dimensional embeddings (Robert Gentleman) |
 | 10:00-10:30 | Coffee |
-| 10:30-11:15 | **Lecture:** Regression (Michael Love) |
-| 11:15-12:00 | **Lecture:** Design of High Throughput Experiments and their Analysis (Charlotte Soneson) |
+| 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Michael Love) |
+| 11:15-12:00 | **Lecture:** Design of high throughput experiments and their analysis (Charlotte Soneson) |
 | 12:00-14:00 | Lunch break (on your own) |
-| 14:00-17:00 | **Lab:** |
+| 14:00-17:00 | **Lab:** R and Bioconductor basics |
 | 17:00-17:30 | **Flashlight talks** |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
 | 08:30-09:15 | **Lecture:** Statistical testing and multiple hypotheses (Wolfgang Huber) |
@@ -47,7 +47,8 @@ description = "Programme"
 | 10:30-11:15 | **Lecture:** RNA-Seq for DE: Types of DE, modeling counts, scaling, transcript lengths, parameter estimation (Charlotte Soneson) |
 | 11:15-12:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings (Davide Risso) |
 | 12:00-14:00 | Lunch break (on your own) |
-| 14:00-17:00 | **Lab:** |
+| 14:00-17:00 | **Lab:** End-to-end RNA-Seq workflow |
+| 14:00-17:00 | **Lab:** Single-cell transcriptomics |
 | 17:00-17:30 | **Flashlight talks** |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
 | 08:30-09:15 | **Lecture:** Distances, nearest-neighbour graphs and clustering (Vincent Carey) |
@@ -64,11 +65,13 @@ description = "Programme"
 | 10:30-11:15 | **Lecture:** Reproducible research: notebooks, workflow management |
 | 11:15-12:00 | **Lecture:** Method comparison, benchmarking |
 | 12:00-14:00 | Lunch break (on your own) |
-| 14:00-17:00 | **Lab:** |
+| 14:00-17:00 | **Lab:** Proteomics/metabolomics |
+| 14:00-17:00 | **Lab:** Working with image data |
+| 14:00-17:00 | **Lab:** Tidyomics project: tidy data analysis applied to omics data |
 | 17:00-17:30 | **Flashlight talks** |
 | <font color="teal">**Fri 28 June**</font> | | <!-- Friday -->
 | 08:30-09:15 | **Lecture:** Machine learning (Robert Gentleman) |
-| 09:15-10:00 | **Lecture:** Single cell advanced topics: trajectories, pseudo-time, bifurcations, spatial statistics (Charlotte | Davide | Wolfgang)|
+| 09:15-10:00 | **Lecture:** Single cell advanced topics: trajectories, pseudo-time, bifurcations, spatial statistics (Charlotte Soneson, Davide Risso) |
 | 10:00-10:30 | Coffee |
 | 10:30-11:15 | **Group projects presentations** |
 | 11:15-12:00 | **Group projects presentations** |
