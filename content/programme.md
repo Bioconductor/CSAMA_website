@@ -17,16 +17,58 @@ description = "Programme"
 - Mass spectrometry-based proteomics and metabolomics <!-- Laurent Gatto, Johannes Rainer --> 
 - Emerging topics and participant suggestions
 
+## Schedule (subject to change)
+
 | Date/Time   | Content |
 |-------------|---------|
 | Sun 23 June |         |
 | 18:00-20:00 | Registration & help desk |
-| 18:00-20:00 | Get Together with drinks |
+| 18:00-20:00 | Get together with drinks |
 | Mon 24 June |         |
+| 08:30-09:15 | **Lecture:** |
+| 09:15-10:00 | **Lecture:** |
+| 10:00-10:30 | Coffee  |
+| 10:30-11:15 | **Lecture:** |
+| 11:15-12:00 | **Lecture:** |
+| 12:00-14:00 | Lunch break (on your own) |
+| 14:00-17:00 | **Lab:** |
+| 17:00-17:30 | **Flashlight talks** |
 | Tue 25 June |         |
+| 08:30-09:15 | **Lecture:** |
+| 09:15-10:00 | **Lecture:** |
+| 10:00-10:30 | Coffee  |
+| 10:30-11:15 | **Lecture:** |
+| 11:15-12:00 | **Lecture:** |
+| 12:00-14:00 | Lunch break (on your own) |
+| 14:00-17:00 | **Lab:** |
+| 17:00-17:30 | **Flashlight talks** |
 | Wed 26 June |         |
+| 08:30-09:15 | **Lecture:** |
+| 09:15-10:00 | **Lecture:** |
+| 10:00-10:30 | Coffee  |
+| 10:30-11:15 | **Lecture:** |
+| 11:15-12:00 | **Lecture:** |
+| 12:00-14:00 | Lunch break (on your own) |
+| 14:00-17:00 | **Lab:** |
+| 17:00-17:30 | **Flashlight talks** |
 | Thu 27 June |         |
+| 08:30-09:15 | **Lecture:** |
+| 09:15-10:00 | **Lecture:** |
+| 10:00-10:30 | Coffee  |
+| 10:30-11:15 | **Lecture:** |
+| 11:15-12:00 | **Lecture:** |
+| 12:00-14:00 | Lunch break (on your own) |
+| 14:00-17:00 | **Lab:** |
+| 17:00-17:30 | **Flashlight talks** |
 | Fri 28 June |         |
+| 08:30-09:15 | **Lecture:** |
+| 09:15-10:00 | **Lecture:** |
+| 10:00-10:30 | Coffee  |
+| 10:30-11:15 | **Lecture:** |
+| 11:15-12:00 | **Lecture:** |
+| 12:00-14:00 | Lunch break (on your own) |
+| 14:00-17:00 | **Lab:** |
+| 17:00-17:30 | **Flashlight talks** |
 
 ### Lecturers and Teaching Assistants
 
