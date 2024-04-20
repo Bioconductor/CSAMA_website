@@ -4,7 +4,7 @@ people:
 - {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
-- {name: Mike Love, initials: ML, location:  University of North Carolina at Chapel Hill}
+- {name: Michael Love, initials: ML, location:  University of North Carolina at Chapel Hill}
 - {name: Davide Risso, initials: DR, location: University of Padova}
 # - {name: Chiara Romualdi, initials: CR, location: University of Padova}
 # - {name: Enrica Calura, initials: EC, location: University of Padova}
