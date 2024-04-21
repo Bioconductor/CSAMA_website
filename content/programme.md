@@ -55,17 +55,17 @@ description = "Programme"
 | 14:00-17:00 | **Lab:** Single-cell transcriptomics |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
-| 20:30-21:30 |	**Group work** |
+| 20:30-21:30 |	**Group work:** Continuation of projects from Monday night |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
 | 08:30-09:15 | **Lecture:** Distances, nearest-neighbour graphs and clustering (Vincent Carey) |
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Lecture:** Discretization vs. continuous modeling, <br/> applications to single cell (Wolfgang Huber) |
-| 11:15-12:00 | **Lecture:** Reproducible research and open science (Laurent Gatto) |
+| 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) |
+| 11:15-12:00 | **Lecture:** Multi-omics and data integration (Michael Love) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](about/#social) |
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
-| 08:30-09:15 | **Lecture:** Mass spectrometry-based proteomics, incl. single-cell (Laurent Gatto) |
+| 08:30-09:15 | **Lecture:** Mass spectrometry-based proteomics <br/> including single-cell (Laurent Gatto) |
 | 09:15-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Laurent Gatto) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Bioconductor advanced topics: annotation resources (Vince Carey) |
@@ -76,15 +76,15 @@ description = "Programme"
 | 14:00-17:00 | **Lab:** Tidyomics project: tidy data analysis applied to omics data |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
-| 20:30-21:30 |	**Group work** |
+| 20:30-21:30 |	**Group work:** Finalizing group work for presentations Friday afternoon |
 | <font color="teal">**Fri 28 June**</font> | | <!-- Friday -->
 | 08:30-09:15 | **Lecture:** Machine learning (Robert Gentleman) |
 | 09:15-10:00 | **Lecture:** Single cell advanced topics: trajectories, <br/> pseudo-time, bifurcations, spatial statistics (Charlotte Soneson, Davide Risso) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Group project presentations** |
-| 11:15-12:00 | **Group project presentations** |
+| 10:30-11:15 | **Lecture:** R programming and debugging (Laurent Gatto) |
+| 11:15-12:00 | **Lecture:** Research assessment in biological/biomedical research, <br/> strategies for communicating research (Wolfgang Huber) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
-| 14:00-17:00 | **Lab:** choose your own |
+| 14:00-17:00 | **Group project presentations** |
 | 17:00 | **Closing remarks** |
 
 ### Lecturers and Teaching Assistants
