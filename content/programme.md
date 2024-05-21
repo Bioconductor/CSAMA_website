@@ -60,7 +60,7 @@ description = "Programme"
 | 08:30-09:15 | **Lecture:** Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) |
+| 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) (Wolfgang Huber) |
 | 11:15-12:00 | **Lecture:** Single cell advanced topics: trajectories, <br/> multi-omics (Charlotte Soneson, Davide Risso) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](about/#social) |
