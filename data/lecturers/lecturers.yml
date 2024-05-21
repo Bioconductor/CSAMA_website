@@ -1,12 +1,12 @@
 people:
 - {name: Anne-Laure Boulesteix, initials: ALB, location: Ludwig Maximilians Universitat Munchen}
 - {name: Vince Carey, initials: VJC, location: Harvard Medical School}
+- {name: Maria Doyle, initials: MD, location: University of Limerick}
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
 - {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
+- {name: Philippine Louail, initials: PL, location: Eurac Research}
 - {name: Michael Love, initials: ML, location:  University of North Carolina at Chapel Hill}
 - {name: Davide Risso, initials: DR, location: University of Padova}
 - {name: Charlotte Soneson, initials: CS, location: Friedrich Miescher Institute for Biomedical Research}
-# - {name: Enrica Calura, initials: EC, location: University of Padova}
 - {name: Ilaria Billato, initials: IB, location: University of Padova}
-- {name: Philippine Louail, initials: PL, location: Eurac Research}
