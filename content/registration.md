@@ -9,16 +9,20 @@ description = "Registration"
 
 The course fees include participation in the lectures, the computer tutorials and all other events: coffee breaks, Wednesday’s social programme and dinner, course material. Lunch is not included.
 
+<!--
 Places are awarded on a first-come, first-served basis. In previous years the course was sold out. 
 
 In order to register, each participant needs to fill in the form at the following link and complete the payment. Please include your contact email and name, you will receive the payment details by email.
 
 <a class="btn btn-white" href="https://apex.cca.unipd.it/pls/apex/f?p=308:2::::2:P_MERCHID,P_LANG:294,ITA">Link to Registration Form</a>
 
-
-
-
 If you are unsure about which participant category you belong to, if you need to pay by money transfer, if you have special requirements for you invoice, or for any other reason, please contact us at info[at]bioconductor.eu. We will guide you through registration.
+
+-->
+
+## Registration
+
+CSAMA 2024 is nearly fully booked.  Please send a message to csama (at) stat.unipd.it if you still would like to be put on the waiting list for the summer school. There are often late cancellations and we will contact you to let you know if any spaces become available.
 
 ### Cancellation and Refund policy:
 
