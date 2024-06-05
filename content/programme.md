@@ -72,8 +72,8 @@ description = "Programme"
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-14:45 | **Lecture**: Spatial (transcript)omics (Davide Risso) |
 | 14:45-15:15 | **Lecture:**: R programming and debugging (Laurent Gatto)  |
-| 15:30-17:00 | **Lab:** Tidyomics project: tidy data analysis applied to omics data |
-| 15:30-17:00 | **Lab:** Working with image data |
+| 15:30-17:00 | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data |
+| 15:30-17:00 | **Lab:** Multi-condition single cell RNA-seq differential analysis |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:30-21:30 |	**Group work:** Finalizing group work for presentations Friday afternoon |
