@@ -63,7 +63,7 @@ description = "Programme"
 | 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) (Wolfgang Huber) |
 | 11:15-12:00 | **Lecture:** Single cell advanced topics: trajectories, <br/> multi-omics (Charlotte Soneson, Davide Risso) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
-| 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](about/#social) |
+| 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) |
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
 | 08:30-09:15 | **Lecture:** Mass spectrometry-based proteomics <br/> including single-cell (Laurent Gatto) |
 | 09:15-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Laurent Gatto) |
