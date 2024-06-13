@@ -64,9 +64,9 @@ installer_with_progress <- function(pkgs) {
 ##-------------------------------------------
 ## System requirements
 ##-------------------------------------------
-.required_R_version = c( "4.3.0" )
-.required_Bioc_version = "3.17"
-.Bioc_devel_version = "3.18"
+.required_R_version = c( "4.4.0" )
+.required_Bioc_version = "3.19"
+.Bioc_devel_version = "3.20"
 .required_rstudio_version = "2023.01.1"
 .rstudio_url="https://posit.co/download/rstudio-desktop/"
 options(warn = 1)
@@ -143,9 +143,9 @@ if( BiocManager::version() != .required_Bioc_version )
 ##   stringr::str_c(collapse = "','") |> 
 ##   sprintf(fmt = "'%s'")
 deps <- c(
-  'hca','celldex','MASS','SummarizedExperiment','TENxPBMCData','SingleCellExperiment','scater','SingleR','devtools','DT','LoomExperiment','scuttle','rols','ontoProc','shiny','vjcitn/csamaDist','Spectra','mzR','QFeatures','MsCoreUtils','scp','scpdata','MsDataHub','rpx','tidyverse','factoextra','msdata','rhdf5','impute','ProtGenerics','PSMatch','pheatmap','limma','RforMassSpectrometry/SpectraVis','OSCA.intro','OSCA.basic','OSCA.advanced','OSCA.multisample','OSCA.workflows','ade4','airway','Biobase','dplyr','factoextra','GGally','ggplot2','Hiiragi2013','pheatmap','phyloseq','knitr','dplyr','ggplot2','tidyr','purrr','reshape2','stringr','terrainr','imagefx','dill/beyonce','EBImage','IHW','RforMassSpectrometry/Spectra','RforMassSpectrometry/MsCoreUtils','MsExperiment','MetaboCoreUtils','MetaboAnnotation','png','sneumann/xcms','jorainer/SpectraTutorials','jorainer/MetaboAnnotationTutorials','jorainer/xcmsTutorials','DropletTestFiles','DropletUtils','EnsDb.Hsapiens.v86','scran','scDblFinder','scry','NewWave','GGally','igraph','mikelove/airway2','tximeta','DESeq2','org.Hs.eg.db','vsn','ExploreModelMatrix','apeglm','iSEE','iSEEu','edgeR','BiocStyle','rjson','AnnotationDbi','muscat','csoneson/ConfoundingExplorer','htmltools','rmarkdown','tximport','airway','AnnotationHub','BiocCheck','BiocFileCache','BiocManager','BiocParallel','biocthis','biomaRt','Biostrings','BSgenome','BSgenome.Hsapiens.UCSC.hg19','BSgenome.Hsapiens.UCSC.hg38','ensembldb','ExperimentHub','GenomicAlignments','GenomicRanges','GenomicFeatures','Gviz','Homo.sapiens','HubPub','hugene20sttranscriptcluster.db','IRanges','KEGGREST','Organism.dplyr','readr','rtracklayer','Rsamtools','RNAseqData.HNRNPC.bam.chr14','tibble','TxDb.Hsapiens.UCSC.hg19.knownGene','TxDb.Hsapiens.UCSC.hg38.knownGene','VariantAnnotation','randomNames','plyranges','GenomeInfoDb','nullranges','ggridges','plotgardener','oct4','org.Mm.eg.db','tidySummarizedExperiment','tidybulk','ggrepel','fission','glmnet'
+  'hca','celldex','MASS','SummarizedExperiment','TENxPBMCData','SingleCellExperiment','scater','SingleR','devtools','DT','LoomExperiment','scuttle','rols','ontoProc','shiny','vjcitn/csamaDist','Spectra','mzR','QFeatures','MsCoreUtils','scp','scpdata','MsDataHub','rpx','tidyverse','factoextra','msdata','rhdf5','impute','ProtGenerics','PSMatch','pheatmap','limma','RforMassSpectrometry/SpectraVis','OSCA.intro','OSCA.basic','OSCA.advanced','OSCA.multisample','OSCA.workflows','ade4','airway','Biobase','dplyr','GGally','ggplot2','Hiiragi2013','phyloseq','ccb-hms/scDiagnostics','methods','isotree','RColorBrewer','ranger','Hotelling','rlang','AUCell','BiocStyle','knitr','Matrix','rmarkdown','scran','scRNAseq','testthat','tidyr','purrr','reshape2','stringr','terrainr','imagefx','dill/beyonce','EBImage','IHW','MsExperiment','MetaboCoreUtils','MetaboAnnotation','png','xcms','jorainer/SpectraTutorials','DropletTestFiles','DropletUtils','EnsDb.Hsapiens.v86','scDblFinder','scry','NewWave','igraph','network','sna','intergraph','SpatialExperiment','STexampleData','ggspavis','nnSVG','BayesSpace','SPOTlight','ggcorrplot','scatterpie','arrow','SpatialFeatureExperiment','Voyager','SFEData','mikelove/airway2','tximeta','DESeq2','org.Hs.eg.db','vsn','ExploreModelMatrix','apeglm','iSEE','iSEEu','edgeR','rjson','AnnotationDbi','muscat','csoneson/ConfoundingExplorer','htmltools','tximport','iSEEde','quarto','patchwork','cowplot','AnnotationHub','BiocCheck','BiocFileCache','BiocManager','BiocParallel','biocthis','biomaRt','Biostrings','BSgenome','BSgenome.Hsapiens.UCSC.hg19','BSgenome.Hsapiens.UCSC.hg38','ensembldb','ExperimentHub','GenomicAlignments','GenomicRanges','GenomicFeatures','Gviz','Homo.sapiens','HubPub','hugene20sttranscriptcluster.db','IRanges','KEGGREST','Organism.dplyr','pwalign','readr','rtracklayer','Rsamtools','RNAseqData.HNRNPC.bam.chr14','tibble','TxDb.Hsapiens.UCSC.hg19.knownGene','TxDb.Hsapiens.UCSC.hg38.knownGene','VariantAnnotation','plyranges','tidybulk','tidySummarizedExperiment','nullranges','fluentGenomics','randomNames','GenomeInfoDb','ggridges','plotgardener','oct4','org.Mm.eg.db','ggrepel','fission','glmnet','lemur','muscData','MatrixGenerics','transformGamPoi','glmGamPoi','Seurat','irlba','uwot','harmony','scales'
 )
-deps <- data.frame(name = gsub(x = deps, "^[[:alnum:]]+/", ""),
+deps <- data.frame(name = gsub(x = deps, "^.+/", ""),
                   source = deps, 
                   stringsAsFactors = FALSE)
 
@@ -161,47 +161,47 @@ toInstall = deps[which( !deps$name %in% rownames(installed.packages())), "source
 ## If a lab requires something outside the norm, install it here
 ## e.g non-standard package versions
 ##---------------------------
-if((any(grepl("xcms", x = toInstall))) || (Biobase::package.version("xcms") < "3.99.0")) {
-  suppressMessages(
-    BiocManager::install("sneumann/xcms", ask = FALSE, quiet = TRUE, update = FALSE)
-  )
-}
+# if((any(grepl("xcms", x = toInstall))) || (Biobase::package.version("xcms") < "3.99.0")) {
+#   suppressMessages(
+#     BiocManager::install("sneumann/xcms", ask = FALSE, quiet = TRUE, update = FALSE)
+#   )
+# }
 
 ## These two sections install some Mac package binaries directly. 
 ## At the time of CSAMA 2023 there were several packages that were "not available" via BiocManager::install()
 ## due to issues with dependencies in the build system, but the binaries had been created
 ## Installing these here saved work trying to get the compilers working for everyone to build from source.
 
-if("NewWave" %in% toInstall) {
-  if(Sys.info()["sysname"] == "Darwin") {
-    if(Sys.info()["machine"] == "x86_64") {
-      message("Installing NewWave x86_64")
-      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-x86_64/contrib/4.3/SharedObject_1.14.0.tgz", repos = NULL)
-      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-x86_64/contrib/4.3/NewWave_1.10.0.tgz", repos = NULL)
-    } else {
-      message("Installing NewWave arm64")
-      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-arm64/contrib/4.3/SharedObject_1.14.0.tgz", repos = NULL)
-      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-arm64/contrib/4.3/NewWave_1.10.0.tgz", repos = NULL)
-    }
-    toInstall <- setdiff(toInstall, "NewWave")
-  } else {
-    message("NewWave will be installed later. You can ignore this message.")
-  }
-}
-
-if("densvis" %in% toInstall) {
-  if(Sys.info()["sysname"] == "Darwin") {
-    if(Sys.info()["machine"] == "x86_64") {
-      message("Installing densvis x86_64")
-      install.packages("https://bioconductor.org/packages/3.16/bioc/bin/macosx/contrib/4.2/densvis_1.8.3.tgz", repos = NULL)
-      toInstall <- setdiff(toInstall, "densvis")
-    } else {
-      message("Installing densvis binary not available for arm64")
-    }
-  } else {
-    message("NewWave will be installed later. You can ignore this message.")
-  }
-}
+# if("NewWave" %in% toInstall) {
+#   if(Sys.info()["sysname"] == "Darwin") {
+#     if(Sys.info()["machine"] == "x86_64") {
+#       message("Installing NewWave x86_64")
+#       install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-x86_64/contrib/4.3/SharedObject_1.14.0.tgz", repos = NULL)
+#       install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-x86_64/contrib/4.3/NewWave_1.10.0.tgz", repos = NULL)
+#     } else {
+#       message("Installing NewWave arm64")
+#       install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-arm64/contrib/4.3/SharedObject_1.14.0.tgz", repos = NULL)
+#       install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-arm64/contrib/4.3/NewWave_1.10.0.tgz", repos = NULL)
+#     }
+#     toInstall <- setdiff(toInstall, "NewWave")
+#   } else {
+#     message("NewWave will be installed later. You can ignore this message.")
+#   }
+# }
+# 
+# if("densvis" %in% toInstall) {
+#   if(Sys.info()["sysname"] == "Darwin") {
+#     if(Sys.info()["machine"] == "x86_64") {
+#       message("Installing densvis x86_64")
+#       install.packages("https://bioconductor.org/packages/3.16/bioc/bin/macosx/contrib/4.2/densvis_1.8.3.tgz", repos = NULL)
+#       toInstall <- setdiff(toInstall, "densvis")
+#     } else {
+#       message("Installing densvis binary not available for arm64")
+#     }
+#   } else {
+#     message("NewWave will be installed later. You can ignore this message.")
+#   }
+# }
 
 
 ##---------------------------
@@ -221,6 +221,9 @@ if(.Platform$OS.type == "windows" || Sys.info()["sysname"] == "Darwin") {
 
 DropletTestFiles::getTestFile("tenx-2.1.0-pbmc4k/1.0.0/raw.tar.gz")
 celldex::MonacoImmuneData()
+STexampleData::Visium_humanDLPFC()
+scRNAseq::fetchDataset("zhong-prefrontal-2018", version = "2023-12-22")
+SFEData::HeNSCLCData()
 
 ##-------------------------
 ## Feedback on installation
@@ -245,7 +248,7 @@ if(all( deps$name %in% rownames(installed.packages()) )) {
       install_command, "\n\n")
   }
   
-  message("If you need help with troubleshooting, please contact the course organisers, or the CSAMA'23 Slack channel (https://csama-2023.slack.com).")
+  message("If you need help with troubleshooting, please contact the course organisers, or the CSAMA'24 Slack channel (https://csama-2024.slack.com).")
   
   if( .Platform$pkgType == "source" ){
     message("Some of the packages (e.g. 'Cairo', 'mzR', rgl', 'RCurl', 'tiff', 'XML') that failed to install may require additional system libraries.*",

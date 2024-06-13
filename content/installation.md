@@ -5,7 +5,7 @@ Due to the limited Internet connectivity at the course venue, it is necessary th
 
 ### Setup Steps
 
-1. Please install the current release version of R (version 4.3.0).  For more instructions, please check https://cran.r-project.org/
+1. Please install the current release version of R (version 4.4.0).  For more instructions, please check https://cran.r-project.org/
 
 2. Please install and set up Git. Jenny Bryan has some excellent instructions available at http://happygitwithr.com/install-git.html<br><p>
   If you are using Windows we recommend Git-For-Windows (https://git-for-windows.github.io/) and if you are using a Mac our suggestion is Git-SCM (https://git-scm.com/downloads)
@@ -20,7 +20,7 @@ to move to the next step and return here only if needed.
 5. After installing all of the above, please open RStudio and copy the line below into your R prompt:
 
 ```
-  source("https://csama2023.bioconductor.eu/install_packages.R")
+  source("https://csama2024.bioconductor.eu/install_packages.R")
 ```
 The script will check if you have the versions of R, Bioconductor and RStudio that are required for the course. The script will also install the R/Bioconductor packages needed for the course. The script might trigger a question about whether you would like to update old packages, please select the option to update “all”.  It will also download several datasets used during the course, and may prompt you to create new folders.  It is safe to use the default options here.  
 
@@ -30,6 +30,6 @@ This process may take a long time, but it is generally OK to leave it running af
 
 If you encounter any errors, please pay close attention to the messages displayed, they may contain further instructions. 
 
-For questions regarding software installation, please contact Mike Smith (mike.smith [at] embl.de) and Julia Philipp (julia.philipp [at] embl.de).
+For questions regarding software installation, please contact Ilaria Billato or csama (at) stat.unipd.it.
 
-We also have a Slack channel for the course (https://csama-2023.slack.com/) where you can ask support questions and meet fellow course participants.  An invite to this will follow shortly.
+We also have a Slack channel for the course (https://csama-2024.slack.com/) where you can ask support questions and meet fellow course participants.  An invite to this will follow shortly.
