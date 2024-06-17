@@ -64,7 +64,7 @@ installer_with_progress <- function(pkgs) {
 ##-------------------------------------------
 ## System requirements
 ##-------------------------------------------
-.required_R_version = c( "4.4.0" )
+.required_R_version = c( "4.4.0", "4.4.1" )
 .required_Bioc_version = "3.19"
 .Bioc_devel_version = "3.20"
 .required_rstudio_version = "2023.01.1"
