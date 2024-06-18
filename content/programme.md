@@ -71,7 +71,6 @@ description = "Programme"
 | 10:30-12:00 | **Lab:** Proteomics/metabolomics (Laurent Gatto and Philippine Louail) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-14:45 | **Lecture**: Spatial (transcript)omics (Davide Risso) |
-<!-- | 14:45-15:15 | **Lecture:**: R programming and debugging (Laurent Gatto)  | -->
 | 14:45-15:15 | **Lecture:**: Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 15:30-17:00 | **Lab:** Multi-condition single cell RNA-seq differential analysis |
 | 15:30-17:00 | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data |
