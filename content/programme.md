@@ -35,9 +35,9 @@ description = "Programme"
 | 18:00-20:00 | Get together with drinks |
 | <font color="teal">**Mon 24 June**</font> | | <!-- Monday -->
 | 08:30-09:15 | **Lecture:** Introduction to Bioconductor (Vince Carey) |
-| 09:15-10:00 | **Lecture:** PCA and other low-dimensional embeddings (Robert Gentleman) |
+| 09:15-10:00 | **Lecture:** Transcriptomics: biology of transcription, quantification, <br/> batch effects and QC (Michael Love) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Michael Love) |
+| 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Vince Carey) |
 | 11:15-12:00 | **Lecture:** Statistical testing and multiple hypotheses (Wolfgang Huber) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** R and Bioconductor basics |
@@ -45,10 +45,10 @@ description = "Programme"
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:30-21:30 |	**Group work:** Creation of week-long project groups, choice of projects |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
-| 08:30-09:15 | **Lecture:** RNA-seq intro: biology of transcription, quantification, <br/> batch effects and QC (Michael Love) |
-| 09:15-10:00 | **Lecture:** RNA-Seq for DE: Types of DE, modeling counts, scaling, <br/> transcript lengths, parameter estimation (Charlotte Soneson) | 
+| 08:30-09:15 | **Lecture:** RNA-Seq: Types of DE, modeling counts, scaling, <br/> transcript lengths, parameter estimation (Charlotte Soneson) |
+| 09:15-10:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, <br/> low-dimensional embeddings (Davide Risso) | 
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Lecture:** Single-cell RNA-seq: exploration, quality control, <br/> low-dimensional embeddings (Davide Risso) |
+| 10:30-11:15 | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings (Robert Gentleman) |
 | 11:15-12:00 | **Lecture:** Distances, nearest-neighbour graphs and clustering (Vincent Carey) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** End-to-end RNA-Seq workflow |
@@ -61,7 +61,7 @@ description = "Programme"
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) (Wolfgang Huber) |
-| 11:15-12:00 | **Lecture:** Single cell advanced topics: trajectories, <br/> multi-omics (Charlotte Soneson, Davide Risso) |
+| 11:15-12:00 | **Lecture:** Single cell advanced topics: trajectories, <br/> multi-omics (Davide Risso) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) |
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
