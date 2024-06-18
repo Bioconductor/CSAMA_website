@@ -57,7 +57,7 @@ description = "Programme"
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:30-21:30 |	**Group work:** Continuation of projects from Monday night |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
-| 08:30-09:15 | **Lecture:** Bioconductor advanced topics: annotation resources (Vince Carey) |
+| 08:30-09:15 | **Lecture:** Chromatin accessibility and ATAC-seq (Michael Love) |
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) (Wolfgang Huber) |
@@ -71,9 +71,10 @@ description = "Programme"
 | 10:30-12:00 | **Lab:** Proteomics/metabolomics (Laurent Gatto and Philippine Louail) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-14:45 | **Lecture**: Spatial (transcript)omics (Davide Risso) |
-| 14:45-15:15 | **Lecture:**: R programming and debugging (Laurent Gatto)  |
-| 15:30-17:00 | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data |
+<!-- | 14:45-15:15 | **Lecture:**: R programming and debugging (Laurent Gatto)  | -->
+| 14:45-15:15 | **Lecture:**: Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 15:30-17:00 | **Lab:** Multi-condition single cell RNA-seq differential analysis |
+| 15:30-17:00 | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:30-21:30 |	**Group work:** Finalizing group work for presentations Friday afternoon |
