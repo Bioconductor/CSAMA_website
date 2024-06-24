@@ -38,7 +38,7 @@ description = "Programme"
 | 09:15-10:00 | **Lecture:** Transcriptomics: biology of transcription, quantification, <br/> batch effects and QC (Michael Love) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Vince Carey) |
-| 11:15-12:00 | **Lecture:** Statistical testing and multiple hypotheses (Wolfgang Huber) |
+| 11:15-12:00 | **Lecture:** [Statistical testing and multiple hypotheses](https://docs.google.com/presentation/d/1vDvwq5TRal3QKXvv3GOgWDuX8xAmO7HZS5fVNKYBrXA/edit?usp=sharing) (Wolfgang Huber) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** R and Bioconductor basics |
 | 17:00-17:30 | **Intro to Project Groups:** Creation of week-long project groups |
