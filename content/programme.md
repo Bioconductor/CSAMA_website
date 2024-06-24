@@ -40,7 +40,7 @@ description = "Programme"
 | 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Vince Carey) |
 | 11:15-12:00 | **Lecture:** [Statistical testing and multiple hypotheses](https://docs.google.com/presentation/d/1vDvwq5TRal3QKXvv3GOgWDuX8xAmO7HZS5fVNKYBrXA/edit?usp=sharing) (Wolfgang Huber) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
-| 14:00-17:00 | **Lab:** R and Bioconductor basics |
+| 14:00-17:00 | **Lab:** [R and Bioconductor basics](https://bioconductor.github.io/CSAMA-labs/intro-to-r-bioc/lab-1-intro-to-r-bioc.html) |
 | 17:00-17:30 | **Intro to Project Groups:** Creation of week-long project groups |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
@@ -50,8 +50,8 @@ description = "Programme"
 | 10:30-11:15 | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings (Robert Gentleman) |
 | 11:15-12:00 | **Lecture:** Distances, nearest-neighbour graphs and clustering (Vincent Carey) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
-| 14:00-17:00 | **Lab:** End-to-end RNA-Seq workflow |
-| 14:00-17:00 | **Lab:** Single-cell transcriptomics |
+| 14:00-17:00 | **Lab:** [End-to-end RNA-Seq workflow](https://bioconductor.github.io/CSAMA-labs/bulk-rnaseq/rnaseqGene_CSAMA2024.html) |
+| 14:00-17:00 | **Lab:** [Single-cell transcriptomics](https://bioconductor.github.io/CSAMA-labs/single-cell-rnaseq/singlecell_CSAMA2024.html) |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:30-21:30 |	**Group work:** Continuation of projects from Monday night |
