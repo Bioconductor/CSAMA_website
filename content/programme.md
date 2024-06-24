@@ -56,7 +56,7 @@ description = "Programme"
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:30-21:30 |	**Group work:** Continuation of projects from Monday night |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
-| 08:30-09:15 | **Lecture:** Chromatin accessibility and ATAC-seq (Michael Love) |
+| 08:30-09:15 | **Lecture:** [Chromatin accessibility and ATAC-seq](https://docs.google.com/presentation/d/152d9DAGPmqQDV0Vxq4DK1me56PhBvxNRiqS1ACmh_TQ/edit?usp=share_link) (Michael Love) |
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) (Wolfgang Huber) |
