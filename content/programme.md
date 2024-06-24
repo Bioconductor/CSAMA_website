@@ -44,7 +44,7 @@ description = "Programme"
 | 17:00-17:30 | **Intro to Project Groups:** Creation of week-long project groups |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
-| 08:30-09:15 | **Lecture:** RNA-Seq: Types of DE, modeling counts, scaling, <br/> transcript lengths, parameter estimation (Charlotte Soneson) |
+| 08:30-09:15 | **Lecture:** [RNA-Seq: Types of DE, modeling counts, scaling, <br/> transcript lengths, parameter estimation](https://drive.google.com/file/d/1d7x6vVilWb0Qmmgk3QrbW3JOAYKstqvb/view?usp=share_link) (Charlotte Soneson) |
 | 09:15-10:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, <br/> low-dimensional embeddings (Davide Risso) | 
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings (Robert Gentleman) |
