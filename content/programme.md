@@ -34,7 +34,7 @@ description = "Programme"
 | 18:00-20:00 | Registration & help desk |
 | 18:00-20:00 | Get together with drinks |
 | <font color="teal">**Mon 24 June**</font> | | <!-- Monday -->
-| 08:30-09:15 | **Lecture:** Introduction to Bioconductor (Maria Doyle) |
+| 08:30-09:15 | **Lecture:** [Introduction to Bioconductor](https://docs.google.com/presentation/d/1tncVXL98dkQGEORyoFrfz-5EakBSL7O7KvcpmGgEYwc/edit?usp=sharing) (Maria Doyle) |
 | 09:15-10:00 | **Lecture:** Transcriptomics: biology of transcription, quantification, <br/> batch effects and QC (Michael Love) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Vince Carey) |
