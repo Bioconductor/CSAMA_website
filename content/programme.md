@@ -35,7 +35,7 @@ description = "Programme"
 | 18:00-20:00 | Get together with drinks |
 | <font color="teal">**Mon 24 June**</font> | | <!-- Monday -->
 | 08:30-09:15 | **Lecture:** [Introduction to Bioconductor](https://docs.google.com/presentation/d/1tncVXL98dkQGEORyoFrfz-5EakBSL7O7KvcpmGgEYwc/edit?usp=sharing) (Maria Doyle) |
-| 09:15-10:00 | **Lecture:** Transcriptomics: biology of transcription, quantification, <br/> batch effects and QC (Michael Love) |
+| 09:15-10:00 | **Lecture:** [Transcriptomics: biology of transcription, quantification, batch effects and QC](https://bit.ly/csama-rna-seq-intro) (Michael Love) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Vince Carey) |
 | 11:15-12:00 | **Lecture:** [Statistical testing and multiple hypotheses](https://docs.google.com/presentation/d/1vDvwq5TRal3QKXvv3GOgWDuX8xAmO7HZS5fVNKYBrXA/edit?usp=sharing) (Wolfgang Huber) |
@@ -56,7 +56,7 @@ description = "Programme"
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:30-21:30 |	**Group work:** Continuation of projects from Monday night |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
-| 08:30-09:15 | **Lecture:** Chromatin accessibility and ATAC-seq (Michael Love) |
+| 08:30-09:15 | **Lecture:** [Chromatin accessibility and ATAC-seq](https://docs.google.com/presentation/d/152d9DAGPmqQDV0Vxq4DK1me56PhBvxNRiqS1ACmh_TQ/edit?usp=sharing) (Michael Love) |
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) (Wolfgang Huber) |
