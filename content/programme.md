@@ -38,7 +38,7 @@ description = "Programme"
 | 09:15-10:00 | **Lecture:** [Transcriptomics: biology of transcription, quantification, batch effects and QC](https://bit.ly/csama-rna-seq-intro) (Michael Love) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Vince Carey) |
-| 11:15-12:00 | **Lecture:** [Statistical testing and multiple hypotheses](https://docs.google.com/presentation/d/1vDvwq5TRal3QKXvv3GOgWDuX8xAmO7HZS5fVNKYBrXA/edit?usp=sharing) (Wolfgang Huber) |
+| 11:15-12:00 | **Lecture:** [Statistical testing and multiple hypotheses](https://docs.google.com/presentation/d/1vDvwq5TRal3QKXvv3GOgWDuX8xAmO7HZS5fVNKYBrXA/edit?usp=sharing) (Wolfgang Huber) [Book chapter](https://www.huber.embl.de/msmb/06-chap.html)|
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** R and Bioconductor basics |
 | 17:00-17:30 | **Intro to Project Groups:** Creation of week-long project groups |
@@ -59,7 +59,7 @@ description = "Programme"
 | 08:30-09:15 | **Lecture:** [Chromatin accessibility and ATAC-seq](https://docs.google.com/presentation/d/152d9DAGPmqQDV0Vxq4DK1me56PhBvxNRiqS1ACmh_TQ/edit?usp=sharing) (Michael Love) |
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?) (Wolfgang Huber) |
+| 10:30-11:15 | **Lecture:** [Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?)](https://docs.google.com/presentation/d/1ZUKI16gE1ZNDtxWZBKcaN2H0MkNEZpqcKWxVpnTtNOc/edit?usp=sharing) (Wolfgang Huber) [Article](https://doi.org/10.1101/2023.03.06.531268)|
 | 11:15-12:00 | **Lecture:** Single cell advanced topics: trajectories, <br/> multi-omics (Davide Risso) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) |
