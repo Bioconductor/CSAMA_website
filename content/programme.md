@@ -42,7 +42,7 @@ description = "Programme"
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** [R and Bioconductor basics](https://bioconductor.github.io/CSAMA-labs/intro-to-r-bioc/lab-1-intro-to-r-bioc.html) |
 | 17:00-17:30 | **Intro to Project Groups:** Creation of week-long project groups |
-| 20:10-22:00 | **Evening session:** Drinks will be provided |
+| 20:10-22:00 | **Evening session:** First meeting of the project groups, introductions |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
 | 08:30-09:15 | **Lecture:** RNA-Seq: Types of DE, modeling counts, scaling, <br/> transcript lengths, parameter estimation (Charlotte Soneson) |
 | 09:15-10:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, <br/> low-dimensional embeddings (Davide Risso) | 
@@ -54,7 +54,8 @@ description = "Programme"
 | 14:00-17:00 | **Lab:** [Single-cell transcriptomics](https://bioconductor.github.io/CSAMA-labs/single-cell-rnaseq/singlecell_CSAMA2024.html) |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
-| 20:30-21:30 |	**Group work:** Continuation of projects from Monday night |
+| 20:10-21:00 |	**Group work:** Continuation of projects from Monday night |
+| 21:00-22:00 |	**Break-out discussions** |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
 | 08:30-09:15 | **Lecture:** [Chromatin accessibility and ATAC-seq](https://docs.google.com/presentation/d/152d9DAGPmqQDV0Vxq4DK1me56PhBvxNRiqS1ACmh_TQ/edit?usp=sharing) (Michael Love) |
 | 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
@@ -75,7 +76,8 @@ description = "Programme"
 | 15:30-17:00 | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
-| 20:30-21:30 |	**Group work:** Finalizing group work for presentations Friday afternoon |
+| 20:10-21:00 |	**Group work:** Finalizing group work for presentations Friday afternoon |
+| 21:00-22:00 |	**Break-out discussions** |
 | <font color="teal">**Fri 28 June**</font> | | <!-- Friday -->
 | 08:30-09:15 | **Lecture:** Design of High Throughput Experiments and their Analysis (Charlotte Soneson) |
 | 09:15-10:00 | **Lecture:** Machine learning (Robert Gentleman) |
