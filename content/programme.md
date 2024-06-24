@@ -26,7 +26,7 @@ description = "Programme"
 
 ## Schedule (subject to change)
 
-* [Teaching material - lectures and labs](https://github.com/Bioconductor/CSAMA)
+* Teaching material: [lectures](https://drive.google.com/drive/folders/14sPbGAI4BVsIlZQEwzLwNmDTqFxbJJ0H) and [labs](https://github.com/Bioconductor/CSAMA)
 
 | Date/Time   | Content |
 |-------------|---------|
