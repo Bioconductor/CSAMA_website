@@ -34,16 +34,15 @@ description = "Programme"
 | 18:00-20:00 | Registration & help desk |
 | 18:00-20:00 | Get together with drinks |
 | <font color="teal">**Mon 24 June**</font> | | <!-- Monday -->
-| 08:30-09:15 | **Lecture:** Introduction to Bioconductor (Vince Carey) |
+| 08:30-09:15 | **Lecture:** Introduction to Bioconductor (Maria Doyle) |
 | 09:15-10:00 | **Lecture:** Transcriptomics: biology of transcription, quantification, <br/> batch effects and QC (Michael Love) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics (Vince Carey) |
 | 11:15-12:00 | **Lecture:** Statistical testing and multiple hypotheses (Wolfgang Huber) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** R and Bioconductor basics |
-| 17:00-17:30 | **Flashlight talks** |
+| 17:00-17:30 | **Intro to Project Groups:** Creation of week-long project groups |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
-| 20:30-21:30 |	**Group work:** Creation of week-long project groups, choice of projects |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
 | 08:30-09:15 | **Lecture:** RNA-Seq: Types of DE, modeling counts, scaling, <br/> transcript lengths, parameter estimation (Charlotte Soneson) |
 | 09:15-10:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, <br/> low-dimensional embeddings (Davide Risso) | 
