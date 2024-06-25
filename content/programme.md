@@ -58,14 +58,14 @@ description = "Programme"
 | 21:00-22:00 |	**Break-out discussions** |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
 | 08:30-09:15 | **Lecture:** [Chromatin accessibility and ATAC-seq](https://docs.google.com/presentation/d/152d9DAGPmqQDV0Vxq4DK1me56PhBvxNRiqS1ACmh_TQ/edit?usp=sharing) (Michael Love) |
-| 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, <br/> double-dipping (Charlotte Soneson) |
+| 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Lecture:** [Multi-condition single cell RNA-seq differential analysis<br/> (or when is the right time to categorize?)](https://docs.google.com/presentation/d/1ZUKI16gE1ZNDtxWZBKcaN2H0MkNEZpqcKWxVpnTtNOc/edit?usp=sharing) (Wolfgang Huber) [Further reading: article](https://doi.org/10.1101/2023.03.06.531268)|
-| 11:15-12:00 | **Lecture:** Single cell advanced topics: trajectories, <br/> multi-omics (Davide Risso) |
+| 10:30-11:15 | **Lecture:** [Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?)](https://docs.google.com/presentation/d/1ZUKI16gE1ZNDtxWZBKcaN2H0MkNEZpqcKWxVpnTtNOc/edit?usp=sharing) (Wolfgang Huber) [Further reading: article](https://doi.org/10.1101/2023.03.06.531268)|
+| 11:15-12:00 | **Lecture:** Single cell advanced topics: trajectories, multi-omics (Davide Risso) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) |
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
-| 08:30-09:15 | **Lecture:** [Mass spectrometry-based proteomics](https://lgatto.github.io/2024_06_27_CSAMA_Brixen/#1) <br/> including single-cell (Laurent Gatto) |
+| 08:30-09:15 | **Lecture:** [Mass spectrometry-based proteomics](https://lgatto.github.io/2024_06_27_CSAMA_Brixen/#1) including single-cell (Laurent Gatto) |
 | 09:15-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Philippine Louail) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-12:00 | **Lab:** Proteomics/metabolomics (Laurent Gatto and Philippine Louail) |
