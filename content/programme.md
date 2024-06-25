@@ -44,11 +44,11 @@ description = "Programme"
 | 17:00-17:30 | **Intro to Project Groups:** Creation of week-long project groups |
 | 20:10-22:00 | **Evening session:** First meeting of the project groups, introductions |
 | <font color="teal">**Tue 25 June**</font> | | <!-- Tuesday -->
-| 08:30-09:15 | **Lecture:** RNA-Seq: Types of DE, modeling counts, scaling, <br/> transcript lengths, parameter estimation (Charlotte Soneson) |
-| 09:15-10:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, <br/> low-dimensional embeddings (Davide Risso) | 
+| 08:30-09:15 | **Lecture:** [RNA-Seq: Types of DE, modeling counts, scaling, transcript lengths, parameter estimation](https://drive.google.com/file/d/1d7x6vVilWb0Qmmgk3QrbW3JOAYKstqvb/view?usp=drive_open) (Charlotte Soneson) |
+| 09:15-10:00 | **Lecture:** [Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings](https://drive.google.com/file/d/1oW_DbHpc_XIx30uAYx82tdhv-ewTcKWk/view?usp=drive_link) (Davide Risso) | 
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings (Robert Gentleman) |
-| 11:15-12:00 | **Lecture:** Distances, nearest-neighbour graphs and clustering (Vincent Carey) |
+| 11:15-12:00 | **Lecture:** [Distances, nearest-neighbour graphs and clustering](https://drive.google.com/file/d/18ztIKL6fhP562h6rmUnEmxcxjpe1ZIaq/view?usp=drive_link) (Vincent Carey) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** [End-to-end RNA-Seq workflow](https://bioconductor.github.io/CSAMA-labs/bulk-rnaseq/rnaseqGene_CSAMA2024.html) |
 | 14:00-17:00 | **Lab:** [Single-cell transcriptomics](https://bioconductor.github.io/CSAMA-labs/single-cell-rnaseq/singlecell_CSAMA2024.html) |
