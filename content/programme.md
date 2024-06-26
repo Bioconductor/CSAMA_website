@@ -65,10 +65,10 @@ description = "Programme"
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) |
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
-| 08:30-09:15 | **Lecture:** [Mass spectrometry-based proteomics](https://lgatto.github.io/2024_06_27_CSAMA_Brixen/#1) including single-cell (Laurent Gatto) |
-| 09:15-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Philippine Louail) |
+| 08:30-09:30 | **Lecture:** [Mass spectrometry-based proteomics](https://lgatto.github.io/2024_06_27_CSAMA_Brixen/#1) including single-cell (Laurent Gatto) |
+| 09:30-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Philippine Louail) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-12:00 | **Lab:** Proteomics/metabolomics (Laurent Gatto and Philippine Louail) |
+| 10:30-12:00 | **Lab:** [Proteomics](https://rformassspectrometry.github.io/book/)/metabolomics (Laurent Gatto and Philippine Louail) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-14:45 | **Lecture**: Spatial (transcript)omics (Davide Risso) |
 | 14:45-15:15 | **Lecture:**: Bioconductor advanced topics: annotation resources (Vince Carey) |
