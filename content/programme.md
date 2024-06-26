@@ -48,7 +48,7 @@ description = "Programme"
 | 09:15-10:00 | **Lecture:** [Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings](https://drive.google.com/file/d/1oW_DbHpc_XIx30uAYx82tdhv-ewTcKWk/view?usp=drive_link) (Davide Risso) | 
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** [Dimension reduction: PCA and other low-dimensional embeddings](https://drive.google.com/file/d/1fHZpP0QThNKMZlEe6kyWowm6lL0MfrKy/view?usp=drive_link) (Robert Gentleman) |
-| 11:15-12:00 | **Lecture:** [Distances, nearest-neighbour graphs and clustering](https://drive.google.com/file/d/18ztIKL6fhP562h6rmUnEmxcxjpe1ZIaq/view?usp=drive_link) (Vincent Carey) |
+| 11:15-12:00 | **Lecture:** [Distances, nearest-neighbour graphs and clustering](https://drive.google.com/file/d/1EHp2vvM6pq1h1pieUX1USESu1J4Oi3Uj/view?usp=drive_link) (Vincent Carey) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Lab:** [End-to-end RNA-Seq workflow](https://bioconductor.github.io/CSAMA-labs/bulk-rnaseq/rnaseqGene_CSAMA2024.html) |
 | 14:00-17:00 | **Lab:** [Single-cell transcriptomics](https://bioconductor.github.io/CSAMA-labs/single-cell-rnaseq/singlecell_CSAMA2024.html) |
