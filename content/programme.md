@@ -78,6 +78,7 @@ description = "Programme"
 | 15:30-17:00 | **Lab:** [Spatial Transcriptomics](https://bioconductor.github.io/CSAMA-labs/spatial-transcriptomics/spatial_CSAMA.html) |
 | 15:30-17:00 | **Lab:** Trajectory analysis with [slingshot](https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html) and [tradeSeq](https://www.bioconductor.org/packages/release/bioc/vignettes/tradeSeq/inst/doc/tradeSeq.html) |
 | 15:30-17:00 | **Lab:** [Interactive exploration with iSEE](https://csoneson.github.io/isee-lab-csama2024/) |
+| 15:30-17:00 | **Lab:** [Working with Image Data](https://github.com/wolfganghuber/WorkingWithImageData) |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:10-22:00 |	**Group work:** (on your own) Finalizing group work for presentations Friday afternoon |
