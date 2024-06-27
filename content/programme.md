@@ -70,7 +70,7 @@ description = "Programme"
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-12:00 | **Lab:** [Proteomics](https://rformassspectrometry.github.io/book/)/metabolomics (Laurent Gatto and Philippine Louail) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
-| 14:00-14:45 | **Lecture**: Spatial (transcript)omics (Davide Risso) |
+| 14:00-14:45 | **Lecture**: [Spatial (transcript)omics](https://drive.google.com/file/d/1orZd5xKGVzuOW4cwCTztapdYIS0RAEjU/view?usp=drive_link) (Davide Risso) |
 | 14:45-15:15 | **Lecture:**: Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 15:30-17:00 | **Lab:** [Multi-condition single cell RNA-seq differential analysis](https://bioconductor.github.io/CSAMA-labs/multicond-scRNA-lemur/multicond-scRNA-lemur-CSAMA2024.html) |
 | 15:30-17:00 | **Lab:** [Intro to Tidyomics: tidy data analysis applied to omics data](https://tidyomics.github.io/tidy-intro-talk/) |
