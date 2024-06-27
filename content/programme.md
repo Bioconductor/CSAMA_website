@@ -68,13 +68,16 @@ description = "Programme"
 | 08:30-09:30 | **Lecture:** [Mass spectrometry-based proteomics](https://lgatto.github.io/2024_06_27_CSAMA_Brixen/#1) including single-cell (Laurent Gatto) |
 | 09:30-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Philippine Louail) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-12:00 | **Lab:** [Proteomics](https://rformassspectrometry.github.io/book/)/metabolomics (Laurent Gatto and Philippine Louail) |
+| 10:30-12:00 | **Lab:** [Proteomics](https://rformassspectrometry.github.io/book/) (Laurent Gatto) |
+| 10:30-12:00 | **Lab:** [Metabolomics](https://jorainer.github.io/xcmsTutorials/index.html) (Philippine Louail) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-14:45 | **Lecture**: [Spatial (transcript)omics](https://drive.google.com/file/d/1orZd5xKGVzuOW4cwCTztapdYIS0RAEjU/view?usp=drive_link) (Davide Risso) |
 | 14:45-15:15 | **Lecture:**: Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 15:30-17:00 | **Lab:** [Multi-condition single cell RNA-seq differential analysis](https://bioconductor.github.io/CSAMA-labs/multicond-scRNA-lemur/multicond-scRNA-lemur-CSAMA2024.html) |
 | 15:30-17:00 | **Lab:** [Intro to Tidyomics: tidy data analysis applied to omics data](https://tidyomics.github.io/tidy-intro-talk/) |
 | 15:30-17:00 | **Lab:** [Spatial Transcriptomics](https://bioconductor.github.io/CSAMA-labs/spatial-transcriptomics/spatial_CSAMA.html) |
+| 15:30-17:00 | **Lab:** Trajectory analysis with [slingshot](https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html) and [tradeSeq](https://www.bioconductor.org/packages/release/bioc/vignettes/tradeSeq/inst/doc/tradeSeq.html) |
+| 15:30-17:00 | **Lab:** [Interactive exploration with iSEE](https://csoneson.github.io/isee-lab-csama2024/) |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:10-22:00 |	**Group work:** (on your own) Finalizing group work for presentations Friday afternoon |
