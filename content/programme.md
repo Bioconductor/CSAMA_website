@@ -66,18 +66,15 @@ description = "Programme"
 | 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) Photos: [By WH](https://photos.app.goo.gl/8SLt6fHGoGiTNEMT8)|
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
 | 08:30-09:30 | **Lecture:** [Mass spectrometry-based proteomics](https://lgatto.github.io/2024_06_27_CSAMA_Brixen/#1) including single-cell (Laurent Gatto) |
-| 09:30-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Philippine Louail) |
+| 09:30-10:00 | **Lecture:** [Mass spectrometry-based metabolomics](https://philouail.github.io/lecture-14-ms-metabolomics/metabolomics-overview.html#1) (Philippine Louail) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-12:00 | **Lab:** [Proteomics](https://rformassspectrometry.github.io/book/) (Laurent Gatto) |
-| 10:30-12:00 | **Lab:** [Metabolomics](https://jorainer.github.io/xcmsTutorials/index.html) (Philippine Louail) |
+| 10:30-12:00 | **Lab:** [Proteomics](https://rformassspectrometry.github.io/book/)/[metabolomics](https://jorainer.github.io/xcmsTutorials/index.html) (Laurent Gatto and Philippine Louail) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-14:45 | **Lecture**: [Spatial (transcript)omics](https://drive.google.com/file/d/1orZd5xKGVzuOW4cwCTztapdYIS0RAEjU/view?usp=drive_link) (Davide Risso) |
 | 14:45-15:15 | **Lecture:**: Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 15:30-17:00 | **Lab:** [Multi-condition single cell RNA-seq differential analysis](https://bioconductor.github.io/CSAMA-labs/multicond-scRNA-lemur/multicond-scRNA-lemur-CSAMA2024.html) |
 | 15:30-17:00 | **Lab:** [Intro to Tidyomics: tidy data analysis applied to omics data](https://tidyomics.github.io/tidy-intro-talk/) |
 | 15:30-17:00 | **Lab:** [Spatial Transcriptomics](https://bioconductor.github.io/CSAMA-labs/spatial-transcriptomics/spatial_CSAMA.html) |
-| 15:30-17:00 | **Lab:** Trajectory analysis with [slingshot](https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html) and [tradeSeq](https://www.bioconductor.org/packages/release/bioc/vignettes/tradeSeq/inst/doc/tradeSeq.html) |
-| 15:30-17:00 | **Lab:** [Interactive exploration with iSEE](https://csoneson.github.io/isee-lab-csama2024/) |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:10-22:00 |	**Group work:** (on your own) Finalizing group work for presentations Friday afternoon |
@@ -87,9 +84,9 @@ description = "Programme"
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** The multiplicity of possible analysis strategies (and how to handle it) in omics applications (Anne-Laure Boulesteix) |
 | 11:15-12:00 | **Lecture:** The multiplicity of possible analysis strategies (and how to handle it) in benchmark studies (Anne-Laure Boulesteix) |
-| 12:00 | **Closing remarks** |
-| 12:15-14:00 | *~~~ Lunch break ~~~* |
+| 12:00-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Group project presentations** |
+| 17:00 | **Closing remarks** |
 
 ### Lecturers and Teaching Assistants
 
