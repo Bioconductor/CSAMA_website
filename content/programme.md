@@ -63,7 +63,7 @@ description = "Programme"
 | 10:30-11:15 | **Lecture:** [Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?)](https://docs.google.com/presentation/d/1ZUKI16gE1ZNDtxWZBKcaN2H0MkNEZpqcKWxVpnTtNOc/edit?usp=sharing) (Wolfgang Huber) [Further reading: article](https://doi.org/10.1101/2023.03.06.531268)|
 | 11:15-12:00 | **Lecture:** [Single cell advanced topics: multi-omics](https://drive.google.com/file/d/1ocei79GD6eMRLqlbyRmO6cMe5oXQ1qtl/view?usp=drive_link) (Davide Risso) |
 | 12:00-14:00 | *~~~ Lunch break ~~~* |
-| 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) |
+| 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) Photos: [By WH](https://photos.app.goo.gl/8SLt6fHGoGiTNEMT8)|
 | <font color="teal">**Thu 27 June**</font> | | <!-- Thursday -->
 | 08:30-09:30 | **Lecture:** [Mass spectrometry-based proteomics](https://lgatto.github.io/2024_06_27_CSAMA_Brixen/#1) including single-cell (Laurent Gatto) |
 | 09:30-10:00 | **Lecture:** Mass spectrometry-based metabolomics (Philippine Louail) |
