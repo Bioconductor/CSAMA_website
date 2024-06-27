@@ -58,7 +58,7 @@ description = "Programme"
 | 21:00-22:00 |	**Break-out discussions** |
 | <font color="teal">**Wed 26 June**</font> | | <!-- Wednesday -->
 | 08:30-09:15 | **Lecture:** [Chromatin accessibility and ATAC-seq](https://docs.google.com/presentation/d/152d9DAGPmqQDV0Vxq4DK1me56PhBvxNRiqS1ACmh_TQ/edit?usp=sharing) (Michael Love) [lab](https://bioconductor.github.io/CSAMA-labs/bulk-atacseq/fluent-genomics-v2.html) |
-| 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping (Charlotte Soneson) |
+| 09:15-10:00 | **Lecture:** [Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping](https://drive.google.com/file/d/1fly6JLomOoUhDuX65bIt1R-4C6bc3I5E/view?usp=drive_link) (Charlotte Soneson) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** [Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?)](https://docs.google.com/presentation/d/1ZUKI16gE1ZNDtxWZBKcaN2H0MkNEZpqcKWxVpnTtNOc/edit?usp=sharing) (Wolfgang Huber) [Further reading: article](https://doi.org/10.1101/2023.03.06.531268)|
 | 11:15-12:00 | **Lecture:** [Single cell advanced topics: multi-omics](https://drive.google.com/file/d/1ocei79GD6eMRLqlbyRmO6cMe5oXQ1qtl/view?usp=drive_link) (Davide Risso) |
@@ -76,8 +76,7 @@ description = "Programme"
 | 15:30-17:00 | **Lab:** [Intro to Tidyomics: tidy data analysis applied to omics data](https://tidyomics.github.io/tidy-intro-talk/) |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
-| 20:10-21:00 |	**Group work:** Finalizing group work for presentations Friday afternoon |
-| 21:00-22:00 |	**Break-out discussions** |
+| 20:10-22:00 |	**Group work:** (on your own) Finalizing group work for presentations Friday afternoon |
 | <font color="teal">**Fri 28 June**</font> | | <!-- Friday -->
 | 08:30-09:15 | **Lecture:** Design of High Throughput Experiments and their Analysis (Charlotte Soneson) |
 | 09:15-10:00 | **Lecture:** Machine learning (Robert Gentleman) |
