@@ -74,6 +74,7 @@ description = "Programme"
 | 14:45-15:15 | **Lecture:**: Bioconductor advanced topics: annotation resources (Vince Carey) |
 | 15:30-17:00 | **Lab:** [Multi-condition single cell RNA-seq differential analysis](https://bioconductor.github.io/CSAMA-labs/multicond-scRNA-lemur/multicond-scRNA-lemur-CSAMA2024.html) |
 | 15:30-17:00 | **Lab:** [Intro to Tidyomics: tidy data analysis applied to omics data](https://tidyomics.github.io/tidy-intro-talk/) |
+| 15:30-17:00 | **Lab:** [Spatial Transcriptomics](https://bioconductor.github.io/CSAMA-labs/spatial-transcriptomics/spatial_CSAMA.html) |
 | 17:00-17:30 | **Flashlight talks** |
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:10-22:00 |	**Group work:** (on your own) Finalizing group work for presentations Friday afternoon |
