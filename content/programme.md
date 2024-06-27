@@ -87,9 +87,9 @@ description = "Programme"
 | 10:00-10:30 | *~~~ Coffee ~~~* |
 | 10:30-11:15 | **Lecture:** The multiplicity of possible analysis strategies (and how to handle it) in omics applications (Anne-Laure Boulesteix) |
 | 11:15-12:00 | **Lecture:** The multiplicity of possible analysis strategies (and how to handle it) in benchmark studies (Anne-Laure Boulesteix) |
-| 12:00-14:00 | *~~~ Lunch break ~~~* |
+| 12:00 | **Closing remarks** |
+| 12:15-14:00 | *~~~ Lunch break ~~~* |
 | 14:00-17:00 | **Group project presentations** |
-| 17:00 | **Closing remarks** |
 
 ### Lecturers and Teaching Assistants
 
