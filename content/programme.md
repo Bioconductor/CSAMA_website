@@ -89,7 +89,9 @@ description = "Programme"
 | 11:15-12:00 | **Lecture:** The multiplicity of possible analysis strategies (and how to handle it) in benchmark studies (Anne-Laure Boulesteix) |
 | 12:00 | **Closing remarks** |
 | 12:15-14:00 | *~~~ Lunch break ~~~* |
-| 14:00-17:00 | **Group project presentations** |
+| 14:00-15:30 | **Group project presentations** |
+| 15:30-16:00 | *~~~ Coffee ~~~* |
+| 16:00-16:30 | **Career panel discussion** |
 
 ### Lecturers and Teaching Assistants
 
