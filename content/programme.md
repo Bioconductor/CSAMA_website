@@ -82,10 +82,10 @@ description = "Programme"
 | 20:10-22:00 | **Evening session:** Drinks will be provided |
 | 20:10-22:00 |	**Group work:** (on your own) Finalizing group work for presentations Friday afternoon |
 | <font color="teal">**Fri 28 June**</font> | | <!-- Friday -->
-| 08:30-09:15 | **Lecture:** Design of High Throughput Experiments and their Analysis (Charlotte Soneson) |
-| 09:15-10:00 | **Lecture:** Machine learning (Robert Gentleman) |
+| 08:30-09:15 | **Lecture:** [Design of High Throughput Experiments and their Analysis](https://drive.google.com/file/d/1J4M_PmPKdmPxdgn6aZZzMKsqM87-HDlH/view?usp=drive_link) (Charlotte Soneson) |
+| 09:15-10:00 | **Lecture:** [Machine learning](https://drive.google.com/file/d/1HSR5p95WEUFtWd-0kcrpOM-HNjonm3fQ/view?usp=drive_link) (Robert Gentleman) |
 | 10:00-10:30 | *~~~ Coffee ~~~* |
-| 10:30-11:15 | **Lecture:** The multiplicity of possible analysis strategies (and how to handle it) in omics applications (Anne-Laure Boulesteix) |
+| 10:30-11:15 | **Lecture:** [The multiplicity of possible analysis strategies (and how to handle it) in omics applications](https://drive.google.com/file/d/1Xx67zE_zX4t3TNBXX39xA13yp7MbocHe/view?usp=drive_link) (Anne-Laure Boulesteix) |
 | 11:15-12:00 | **Lecture:** The multiplicity of possible analysis strategies (and how to handle it) in benchmark studies (Anne-Laure Boulesteix) |
 | 12:00 | **Closing remarks** |
 | 12:15-14:00 | *~~~ Lunch break ~~~* |
